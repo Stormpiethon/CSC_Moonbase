@@ -1,0 +1,17 @@
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase_Alpha.FormMain.resources
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase_Alpha.Properties.Resources.resources
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.csproj.GenerateResource.cache
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.AssemblyInfoInputs.cache
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.AssemblyInfo.cs
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\bin\Debug\net6.0-windows\MoonBase Alpha.exe
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\bin\Debug\net6.0-windows\MoonBase Alpha.deps.json
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\bin\Debug\net6.0-windows\MoonBase Alpha.runtimeconfig.json
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\bin\Debug\net6.0-windows\MoonBase Alpha.dll
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\bin\Debug\net6.0-windows\MoonBase Alpha.pdb
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.dll
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\refint\MoonBase Alpha.dll
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.pdb
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\MoonBase Alpha.genruntimeconfig.cache
+C:\Users\alexb\source\repos\CSC202\MoonBase Alpha\obj\Debug\net6.0-windows\ref\MoonBase Alpha.dll
