@@ -1,0 +1,17 @@
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.Form1.resources
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.Properties.Resources.resources
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.csproj.GenerateResource.cache
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.AssemblyInfoInputs.cache
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.AssemblyInfo.cs
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\C#\IcarusLanding\bin\Debug\net6.0-windows\IcarusLanding.exe
+C:\Users\alexb\source\repos\C#\IcarusLanding\bin\Debug\net6.0-windows\IcarusLanding.deps.json
+C:\Users\alexb\source\repos\C#\IcarusLanding\bin\Debug\net6.0-windows\IcarusLanding.runtimeconfig.json
+C:\Users\alexb\source\repos\C#\IcarusLanding\bin\Debug\net6.0-windows\IcarusLanding.dll
+C:\Users\alexb\source\repos\C#\IcarusLanding\bin\Debug\net6.0-windows\IcarusLanding.pdb
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.dll
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\refint\IcarusLanding.dll
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.pdb
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\IcarusLanding.genruntimeconfig.cache
+C:\Users\alexb\source\repos\C#\IcarusLanding\obj\Debug\net6.0-windows\ref\IcarusLanding.dll
